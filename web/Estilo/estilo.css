@@ -1,0 +1,82 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+	background: #006283;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+.title{
+	margin-top: 25px;
+}
+.principal{
+	background-color: #006283;
+	margin:auto;
+	width: 90%;
+	height: 50%;
+	padding-top: 50px;
+}
+td{
+	padding: 4px;
+}
+.rodape{
+	border-radius: 1px;
+    text-align: center;
+    height: 30px;
+    margin-top: -27px;
+}
+.rodapeHR{
+    margin-top: 170px;
+}
+hr{
+	border: 0;
+    height: 2px;
+    background: #333;
+    background-image: linear-gradient(to right, #CCC, #333, #CCC);
+}
+a{
+    text-decoration: none;
+		color: #fff;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    color: #fff;
+}
+a img{
+	height: 20px;
+	width: 20px;
+}
+input{
+	font-size: 20px;
+	border-radius:5px;
+	padding-left: 0px;
+	width:399px;
+	margin: 15px 5px 5px 5px;
+}
+input[autofocus]{
+	width: 450px;
+}
+input[type="submit"]{
+    font-size: 15px;
+	border: none;
+	border-radius: 6px;
+	padding:4px 10px;
+	color:rgb(255,255,255);
+	background:rgb(58,68,78);
+	margin: 20px 0px 0px 350px;
+}
+input[type="submit"]:hover{
+	background:rgba(58,68,78, 0.6);
+}
+/* Sortable tables */
+table.sortable thead {
+  background-color:#eee;
+  color:#666666;
+  font-weight: bold;
+  cursor: default;
+}

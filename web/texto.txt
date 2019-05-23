@@ -1,0 +1,2 @@
+[{"dataFimTarefa":"2019-08-08","foto":2131165293,"id":4,"nome":"Física","totalEtapas":2,"totalEtapasCompletas":0,"usuario":"a08cf832cdfb548a"}][{"completada":0,"dataVencimento":"2019-08-08","id":16,"idTarefa":4,"nome":"Geografia"},{"completada":0,"dataVencimento":"2019-01-01","id":17,"idTarefa":4,"nome":"Térmica"}]
+
