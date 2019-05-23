@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cronograma</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string name="msg_no_notes">Sem Tarefas!</string>
+    <string name="msg_no_etapas">Sem Etapas!</string>
+    <string name="lbl_new_note_title">Nova Tarefa</string>
+    <string name="lbl_edit_note_title">Editar tarefa</string>
+    <string name="dica_inserir_nome">Insira o nome !</string>
+    <string name="dica_inserir_data">Data de vencimento</string>
+    <string name="continuar">Continuar</string>
+    <string name="data_bd_formato">MM/dd/yyyy</string>
+    <string name="data_usuario_formato">MMM dd</string>
+    <string name="data_nuvem_formato">yyyy-MM-dd</string>
+    <string name="data_ano_formato">yyyy</string>
+    <string name="data_mes_formato">MM</string>
+</resources>
